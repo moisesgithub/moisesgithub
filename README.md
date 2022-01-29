@@ -7,6 +7,8 @@
 - 🌱 My initial goal is focused on Back-End in .NET C#
 - 🤔 I'm looking for an internship in Information Technology
 
+### ⚙️ &nbsp;GitHub Analytics
+
 <div>
   <a href="https://github.com/moisesgithub">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moisesgithub&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
@@ -15,7 +17,7 @@
   
 <br><br>    
 
-## 🛠 &nbsp;My Tech Stack
+### 🛠 &nbsp;My Tech Stack
 
 ![CSharp](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=CSharp&logoColor=1572B6)
 ![Visual Studio Community](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio&logoColor=007ACC)&nbsp; 
@@ -32,6 +34,7 @@
     
 ##
   
+### &nbsp;Social Link
   <div>  
   <a href="https://www.linkedin.com/in/moisespereira2020" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
 </div>
