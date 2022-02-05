@@ -19,6 +19,7 @@
 
 ## 🛠 &nbsp;My Tech Stack
 
+![DotNet](https://img.shields.io/badge/-DotNet-05122A?style=flat&logo=dotnet&logoColor=1572B6)
 ![CSharp](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=CSharp&logoColor=1572B6)
 ![Visual Studio Community](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio&logoColor=007ACC)&nbsp; 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
