@@ -4,7 +4,7 @@
 - 🔥 I am currently working as a CNC Operator and Programmer
 - 🔭 I'm in career transition
 - 🌱 I am studying IT Management
-- 🌱 My initial goal is focused on Back-End in .NET C#
+- 🌱 My initial goal is focused on Back-End
 - 🤔 I'm looking for an internship in Information Technology
 
 ## ⚙️ &nbsp;GitHub Analytics
