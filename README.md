@@ -1,4 +1,4 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Moises Pereira</h1>
+<h1 align="left">Hi, I'm Moises Pereira</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moisesgithub&color=blueviolet" alt="Profile views" /> </p>
 
 - 🔥 I am currently working as a CNC Operator and Programmer
