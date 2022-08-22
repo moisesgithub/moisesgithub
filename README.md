@@ -1,11 +1,11 @@
 <h1 align="left">Hi, I'm Moises Pereira</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moisesgithub&color=blueviolet" alt="Profile views" /> </p>
 
-- 🔥 I am currently working as a CNC Operator and Programmer
-- 🔭 I'm in career transition
-- 🌱 I am studying IT Management
-- 🌱 My initial goal is focused on Back-End
-- 🤔 I'm looking for an internship in Information Technology
+- 🔥 I currently work as a furniture designer and CNC programmer.
+- 🔭 Completed my graduation as an IT Technologist, August 2022
+- 🌱 My initial goal is to be a Web Programmer
+- 🌱 I'm in career transition
+- 🔥 Open for immediate start!
 
 ## ⚙️ &nbsp;GitHub Analytics
 
